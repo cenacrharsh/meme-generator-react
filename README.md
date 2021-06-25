@@ -1,3 +1,3 @@
 # Meme Generator - React App
 
-![demo](./ss.png)
+![demo](./ss.gif)
